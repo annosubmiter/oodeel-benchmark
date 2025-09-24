@@ -8,7 +8,7 @@ The Parquet files in `reduced_results/` and `evaluate_models/` ship with the rep
 
 ## Online demo
 
-[https://oodeel-benchmark.streamlit.app](https://oodeel-benchmark.streamlit.app)
+[https://oodeel-submission.streamlit.app](https://oodeel-submission.streamlit.app)
 
 ## Run locally
 
