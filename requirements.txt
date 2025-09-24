@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+pyarrow
+pyyaml
+seaborn
+scipy
+streamlit
+plotly
+kaleido<1.0.0
